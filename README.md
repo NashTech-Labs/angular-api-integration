@@ -1,6 +1,6 @@
 # API-Integeration
 
-This templlate helps to learn how to communicate with backend services in angular using HttlClientModule
+This template helps to learn how to communicate with backend services in angular using HttlClientModule
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
